@@ -5,7 +5,7 @@ ___
 
 ## Requirements
 
-1. *git*
+1. _git_
 <code>$ sudo apt-get update</code>
 <code>$ sudo apt-get upgrade</code>
 <code>$ sudo apt-get install git</code>
